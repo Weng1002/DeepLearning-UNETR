@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DeepLearning-UNETR
 113-2 IIM DeepLearning UNETR Framework Modification
 
